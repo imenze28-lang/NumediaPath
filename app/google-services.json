@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840751557580",
+    "project_id": "numediapath-imen",
+    "storage_bucket": "numediapath-imen.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840751557580:android:c99f3cd235e7f82d5d8b69",
+        "android_client_info": {
+          "package_name": "com.example.numediapath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKK0EME7a1TVsDN0GBOPkmlvizqyH9MRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

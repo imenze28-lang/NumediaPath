@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.numediapath.ui.view.onboarding.HomeFragment"
+        android:label="Accueil"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_home_to_explorer"
+            app:destination="@id/explorerFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/explorerFragment"
+        android:name="com.example.numediapath.ui.view.onboarding.ExplorerFragment"
+        android:label="Explorer"
+        tools:layout="@layout/fragment_explorer">
+        <action
+            android:id="@+id/action_explorer_to_preferencesFragment"
+            app:destination="@id/preferencesFragment"
+            app:enterAnim="@anim/nav_default_enter_anim"
+            app:exitAnim="@anim/nav_default_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/preferencesFragment"
+        android:name="com.example.numediapath.ui.view.preferences.PreferencesFragment"
+        android:label="Vos Préférences"
+        tools:layout="@layout/fragment_preferences">
+        <action
+            android:id="@+id/action_preferences_to_result"
+            app:destination="@id/resultFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/resultFragment"
+        android:name="com.example.numediapath.ui.view.result.ResultFragment"
+        android:label="Itinéraires trouvés"
+        tools:layout="@layout/fragment_result">
+        <action
+            android:id="@+id/action_result_to_details"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/detailsFragment"
+        android:name="com.example.numediapath.ui.view.details.DetailsFragment"
+        android:label="Détails du voyage"
+        tools:layout="@layout/fragment_details">
+
+        <argument
+            android:name="selected_route"
+            app:argType="com.example.numediapath.data.model.RoutePlan" />
+
+        <action
+            android:id="@+id/action_details_to_summary"
+            app:destination="@id/summaryFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_favorites"
+        android:name="com.example.numediapath.ui.view.favorites.FavoritesFragment"
+        android:label="Mes Favoris"
+        tools:layout="@layout/fragment_favorites">
+        <action
+            android:id="@+id/action_favorites_to_details"
+            app:destination="@id/detailsFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.numediapath.ui.view.profile.ProfileFragment"
+        android:label="Mon Profil"
+        tools:layout="@layout/fragment_profile" />
+
+    <fragment
+        android:id="@+id/summaryFragment"
+        android:name="com.example.numediapath.ui.view.result.SummaryFragment"
+        android:label="Votre Bilan"
+        tools:layout="@layout/fragment_summary">
+
+        <argument
+            android:name="finished_route"
+            app:argType="com.example.numediapath.data.model.RoutePlan" />
+
+        <action
+            android:id="@+id/action_summary_to_home"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/homeFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+
+</navigation>

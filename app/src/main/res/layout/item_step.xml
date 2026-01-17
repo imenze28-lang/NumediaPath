@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="0dp">
+
+    <TextView
+        android:id="@+id/tv_step_time"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:text="10:00"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:textColor="@color/design_default_color_secondary"
+        android:gravity="end"
+        android:layout_marginEnd="12dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@id/iv_step_dot"/>
+
+    <View
+        android:id="@+id/view_line"
+        android:layout_width="2dp"
+        android:layout_height="0dp"
+        android:background="#E0E0E0"
+        app:layout_constraintTop_toBottomOf="@id/iv_step_dot"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@id/iv_step_dot"
+        app:layout_constraintEnd_toEndOf="@id/iv_step_dot"/>
+
+    <ImageView
+        android:id="@+id/iv_step_dot"
+        android:layout_width="16dp"
+        android:layout_height="16dp"
+        android:src="@drawable/bg_circle_glass"
+        android:background="@drawable/bg_circle_glass"
+        android:backgroundTint="@color/primary"
+        app:layout_constraintStart_toEndOf="@id/tv_step_time"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="4dp"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:cardCornerRadius="12dp"
+        app:cardElevation="2dp"
+        app:cardBackgroundColor="#E8F5E9"
+        android:layout_marginStart="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintStart_toEndOf="@id/iv_step_dot"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/tv_step_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Visite du Musée"
+                android:textStyle="bold"
+                android:textColor="@color/text_dark"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/tv_step_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Durée conseillée : 45 min"
+                android:textColor="@color/text_grey"
+                android:textSize="12sp"
+                android:layout_marginTop="4dp"/>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

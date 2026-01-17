@@ -1,0 +1,902 @@
+[
+  {
+    "id": "dz_01",
+    "name": "La Casbah d'Alger",
+    "country": "Algérie",
+    "type": "CULTURE",
+    "totalCost": 45,
+    "totalDuration": 180,
+    "totalDistance": 4,
+    "tags": "Alger, CULTURE, HISTOIRE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fdz_alger_casbah.jpg?alt=media&token=464600b6-acfc-4843-8b35-914a6d59dd02",
+    "steps": [
+      { "time": "09:00", "title": "Palais des Rais", "description": "Architecture ottomane", "lat": 36.7850, "lon": 3.0630, "iconType": "CULTURE" },
+      { "time": "10:30", "title": "Mosquée Ketchaoua", "description": "Monument historique", "lat": 36.7842, "lon": 3.0616, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Rue des Artisans", "description": "Artisanat local", "lat": 36.7834, "lon": 3.0602, "iconType": "SHOPPING" }
+    ]
+  },
+  {
+    "id": "dz_02",
+    "name": "Oran : Front de Mer",
+    "country": "Algérie",
+    "type": "NATURE",
+    "totalCost": 65,
+    "totalDuration": 120,
+    "totalDistance": 6,
+    "tags": "Oran, NATURE, DETENTE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fdz_oran_front_mer.jpeg?alt=media&token=aba47a1e-8a99-4eff-925d-94daa5c48d11",
+    "steps": [
+      { "time": "17:00", "title": "Promenade ALN", "description": "Bord de mer", "lat": 35.7051, "lon": -0.6491, "iconType": "NATURE" },
+      { "time": "18:00", "title": "Théâtre Régional", "description": "Pause culturelle", "lat": 35.6997, "lon": -0.6415, "iconType": "CULTURE" },
+      { "time": "19:00", "title": "Port d'Oran", "description": "Coucher de soleil", "lat": 35.7104, "lon": -0.6401, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "dz_03",
+    "name": "Constantine : Les Gorges",
+    "country": "Algérie",
+    "type": "CULTURE",
+    "totalCost": 40,
+    "totalDuration": 150,
+    "totalDistance": 5,
+    "tags": "Constantine, AVENTURE",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fdz_constantine_gorges.jpg?alt=media&token=ee8537b3-abd0-4d19-bf97-7df841f67f78",
+    "steps": [
+      { "time": "10:00", "title": "Pont Sidi M'Cid", "description": "Vue vertigineuse", "lat": 36.3650, "lon": 6.6147, "iconType": "CULTURE" },
+      { "time": "11:30", "title": "Pont El Kantara", "description": "Pont romain", "lat": 36.3685, "lon": 6.6118, "iconType": "CULTURE" },
+      { "time": "13:00", "title": "Musée Cirta", "description": "Histoire locale", "lat": 36.3639, "lon": 6.6106, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "dz_04",
+    "name": "Tlemcen : Mechouar",
+    "country": "Algérie",
+    "type": "CULTURE",
+    "totalCost": 50,
+    "totalDuration": 200,
+    "totalDistance": 3,
+    "tags": "Tlemcen, CULTURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fdz_tlemcen_mechouar.jpg?alt=media&token=7bcd74dd-39d1-4608-bf68-6b7a1059f198",
+    "steps": [
+      { "time": "09:30", "title": "Palais El Mechouar", "description": "Ancien palais royal", "lat": 34.8783, "lon": -1.3153, "iconType": "CULTURE" },
+      { "time": "11:00", "title": "Grande Mosquée", "description": "Art almoravide", "lat": 34.8789, "lon": -1.3159, "iconType": "CULTURE" },
+      { "time": "13:00", "title": "Parc Lalla Setti", "description": "Vue panoramique", "lat": 34.8797, "lon": -1.3102, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "dz_05",
+    "name": "Bejaia : Cap Carbon",
+    "country": "Algérie",
+    "type": "NATURE",
+    "totalCost": 35,
+    "totalDuration": 240,
+    "totalDistance": 10,
+    "tags": "Bejaia, NATURE",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fdz_bejaia_cap_carbon.jpg?alt=media&token=07460c38-60a9-40d7-b77f-58c850231b32",
+    "steps": [
+      { "time": "08:30", "title": "Port de Béjaïa", "description": "Départ", "lat": 36.7510, "lon": 5.0550, "iconType": "NATURE" },
+      { "time": "10:30", "title": "Parc Gouraya", "description": "Randonnée", "lat": 36.7701, "lon": 5.1010, "iconType": "NATURE" },
+      { "time": "13:00", "title": "Phare Cap Carbon", "description": "Point final", "lat": 36.7982, "lon": 5.1073, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "ae_01",
+    "name": "Dubaï : Sommet du Burj",
+    "country": "Dubaï",
+    "type": "CULTURE",
+    "totalCost": 950,
+    "totalDuration": 240,
+    "totalDistance": 2,
+    "tags": "Dubai, LUXE, SHOPPING",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fae_dubai_burj.jpg?alt=media&token=94dd9103-93ca-4f32-8921-e155bdd60e85",
+    "steps": [
+      { "time": "14:00", "title": "Dubai Mall", "description": "Shopping de luxe", "lat": 25.1985, "lon": 55.2796, "iconType": "SHOPPING" },
+      { "time": "16:30", "title": "Burj Khalifa Top", "description": "Vue 148ème étage", "lat": 25.1972, "lon": 55.2744, "iconType": "CULTURE" },
+      { "time": "18:30", "title": "Dîner Armani", "description": "Gastronomie étoilée", "lat": 25.1971, "lon": 55.2742, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "ae_02",
+    "name": "Dubaï : Palm Jumeirah VIP",
+    "country": "Dubaï",
+    "type": "NATURE",
+    "totalCost": 1200,
+    "totalDuration": 360,
+    "totalDistance": 15,
+    "tags": "Dubai, LUXE, NATURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fae_dubai_palm.jpg?alt=media&token=6da2240e-a2c7-4eeb-9bad-a22241b7a5dd",
+    "steps": [
+      { "time": "10:00", "title": "Héliport Palm", "description": "Tour en hélicoptère", "lat": 25.1124, "lon": 55.1320, "iconType": "NATURE" },
+      { "time": "12:00", "title": "Atlantis Aquaventure", "description": "Détente privée", "lat": 25.1304, "lon": 55.1171, "iconType": "NATURE" },
+      { "time": "15:00", "title": "The Pointe", "description": "Shopping et Marina", "lat": 25.1228, "lon": 55.1215, "iconType": "SHOPPING" }
+    ]
+  },
+  {
+    "id": "ae_03",
+    "name": "Dubaï : Safari Désert Royal",
+    "country": "Dubaï",
+    "type": "NATURE",
+    "totalCost": 750,
+    "totalDuration": 480,
+    "totalDistance": 60,
+    "tags": "Dubai, AVENTURE, GASTRO",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fae_dubai_safari.jpg?alt=media&token=db54d7e4-85e6-44e0-99a1-603ac2c949bb",
+    "steps": [
+      { "time": "15:00", "title": "Réserve de Conservation", "description": "Dunes en 4x4", "lat": 24.8333, "lon": 55.6667, "iconType": "NATURE" },
+      { "time": "17:30", "title": "Fauconnerie", "description": "Spectacle traditionnel", "lat": 24.8400, "lon": 55.6700, "iconType": "CULTURE" },
+      { "time": "19:30", "title": "Camp Bédouin VIP", "description": "Dîner sous les étoiles", "lat": 24.8450, "lon": 55.6750, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "ae_04",
+    "name": "Abu Dhabi : Art et Palais",
+    "country": "Dubaï",
+    "type": "CULTURE",
+    "totalCost": 550,
+    "totalDuration": 300,
+    "totalDistance": 25,
+    "tags": "AbuDhabi, CULTURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fae_abudhabi_art.jpeg?alt=media&token=37c382a7-8ecd-419f-99e8-4f484175e912",
+    "steps": [
+      { "time": "10:00", "title": "Louvre Abu Dhabi", "description": "Musée universel", "lat": 24.5337, "lon": 54.3981, "iconType": "CULTURE" },
+      { "time": "13:00", "title": "Qasr Al Watan", "description": "Palais présidentiel", "lat": 24.4598, "lon": 54.3033, "iconType": "CULTURE" },
+      { "time": "16:00", "title": "Grande Mosquée Sheikh Zayed", "description": "Merveille d'architecture", "lat": 24.4128, "lon": 54.4750, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "ae_05",
+    "name": "Dubaï : Marina Cruise",
+    "country": "Dubaï",
+    "type": "GASTRO",
+    "totalCost": 400,
+    "totalDuration": 150,
+    "totalDistance": 8,
+    "tags": "Dubai, GASTRO, NATURE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/numediapath-imen.firebasestorage.app/o/destinations%2Fae_dubai_marina.jpeg?alt=media&token=c4c692b3-3b9c-4c1a-86c2-e2151a6c5d51",
+    "steps": [
+      { "time": "19:00", "title": "Pier 7 Marina", "description": "Embarquement", "lat": 25.0784, "lon": 55.1396, "iconType": "NATURE" },
+      { "time": "20:00", "title": "Croisière Yacht", "description": "Dîner gastronomique", "lat": 25.0800, "lon": 55.1350, "iconType": "GASTRO" },
+      { "time": "21:30", "title": "Ain Dubai", "description": "Vue sur la roue", "lat": 25.0795, "lon": 55.1211, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "us_01",
+    "name": "NYC : Fifth Avenue Elite",
+    "country": "USA",
+    "type": "SHOPPING",
+    "totalCost": 1500,
+    "totalDuration": 240,
+    "totalDistance": 3,
+    "tags": "NYC, LUXE, SHOPPING",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9",
+    "steps": [
+      { "time": "10:00", "title": "Tiffany & Co", "description": "L'emblématique joaillier", "lat": 40.7625, "lon": -73.9741, "iconType": "SHOPPING" },
+      { "time": "12:00", "title": "Saks Fifth Avenue", "description": "Mode haut de gamme", "lat": 40.7580, "lon": -73.9774, "iconType": "SHOPPING" },
+      { "time": "14:00", "title": "Central Park South", "description": "Balade en calèche", "lat": 40.7644, "lon": -73.9730, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "us_02",
+    "name": "LA : Hollywood Hills",
+    "country": "USA",
+    "type": "CULTURE",
+    "totalCost": 600,
+    "totalDuration": 300,
+    "totalDistance": 12,
+    "tags": "LA, CULTURE, NATURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1512418490979-92798ccc13a0",
+    "steps": [
+      { "time": "09:00", "title": "Griffith Observatory", "description": "Vue sur LA", "lat": 34.1184, "lon": -118.3004, "iconType": "CULTURE" },
+      { "time": "11:30", "title": "Hollywood Sign Hike", "description": "Au plus près des lettres", "lat": 34.1341, "lon": -118.3215, "iconType": "NATURE" },
+      { "time": "14:00", "title": "Dolby Theatre", "description": "Cœur du cinéma", "lat": 34.1018, "lon": -118.3401, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "us_03",
+    "name": "San Francisco : Golden Gate",
+    "country": "USA",
+    "type": "NATURE",
+    "totalCost": 350,
+    "totalDuration": 300,
+    "totalDistance": 15,
+    "tags": "SF, NATURE, ICONIC",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1501594907352-04cda38ebc29",
+    "steps": [
+      { "time": "10:00", "title": "Fisherman's Wharf", "description": "Départ du port historique", "lat": 37.8080, "lon": -122.4177, "iconType": "CULTURE" },
+      { "time": "13:00", "title": "Crissy Field", "description": "Vue imprenable sur le pont", "lat": 37.8038, "lon": -122.4636, "iconType": "NATURE" },
+      { "time": "15:00", "title": "Golden Gate Bridge", "description": "Traversée mythique", "lat": 37.8199, "lon": -122.4783, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "us_04",
+    "name": "Miami : South Beach Life",
+    "country": "USA",
+    "type": "NATURE",
+    "totalCost": 800,
+    "totalDuration": 360,
+    "totalDistance": 5,
+    "tags": "Miami, LUXE, BEACH",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1514214246283-d427a95c5d2f",
+    "steps": [
+      { "time": "11:00", "title": "Ocean Drive", "description": "Architecture Art Déco", "lat": 25.7826, "lon": -80.1285, "iconType": "CULTURE" },
+      { "time": "14:00", "title": "Lummus Park Beach", "description": "Détente au soleil", "lat": 25.7797, "lon": -80.1299, "iconType": "NATURE" },
+      { "time": "17:00", "title": "Lincoln Road Mall", "description": "Dîner et shopping chic", "lat": 25.7906, "lon": -80.1349, "iconType": "SHOPPING" }
+    ]
+  },
+  {
+    "id": "us_05",
+    "name": "Las Vegas : The Strip VIP",
+    "country": "USA",
+    "type": "CULTURE",
+    "totalCost": 2500,
+    "totalDuration": 420,
+    "totalDistance": 6,
+    "tags": "Vegas, LUXE, NIGHT",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1605833559746-611c6834be1d",
+    "steps": [
+      { "time": "19:00", "title": "Bellagio Fountains", "description": "Spectacle d'eau", "lat": 36.1126, "lon": -115.1767, "iconType": "CULTURE" },
+      { "time": "21:00", "title": "Caesars Palace", "description": "Dîner gastronomique", "lat": 36.1162, "lon": -115.1745, "iconType": "GASTRO" },
+      { "time": "23:00", "title": "The Venetian", "description": "Balade nocturne en gondole", "lat": 36.1212, "lon": -115.1697, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "fr_01",
+    "name": "Paris : Le Marais Chic",
+    "country": "France",
+    "type": "CULTURE",
+    "totalCost": 120,
+    "totalDuration": 180,
+    "totalDistance": 3,
+    "tags": "Paris, CULTURE, GASTRO",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34",
+    "steps": [
+      { "time": "14:00", "title": "Place des Vosges", "description": "Place historique", "lat": 48.8554, "lon": 2.3655, "iconType": "CULTURE" },
+      { "time": "15:30", "title": "Musée Picasso", "description": "Art moderne", "lat": 48.8598, "lon": 2.3622, "iconType": "CULTURE" },
+      { "time": "17:30", "title": "L'As du Fallafel", "description": "Gastronomie rue des rosiers", "lat": 48.8576, "lon": 2.3592, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "fr_02",
+    "name": "Lyon : Vieux Lyon Gastro",
+    "country": "France",
+    "type": "GASTRO",
+    "totalCost": 150,
+    "totalDuration": 240,
+    "totalDistance": 4,
+    "tags": "Lyon, GASTRO, HISTOIRE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1599732488107-160e1df5916a",
+    "steps": [
+      { "time": "10:00", "title": "Cathédrale St-Jean", "description": "Cœur médiéval", "lat": 45.7608, "lon": 4.8268, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Bouchon Lyonnais", "description": "Déjeuner traditionnel", "lat": 45.7625, "lon": 4.8275, "iconType": "GASTRO" },
+      { "time": "14:00", "title": "Traboules du Vieux Lyon", "description": "Passages secrets", "lat": 45.7635, "lon": 4.8280, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "fr_03",
+    "name": "Marseille : Les Calanques",
+    "country": "France",
+    "type": "NATURE",
+    "totalCost": 90,
+    "totalDuration": 480,
+    "totalDistance": 12,
+    "tags": "Marseille, NATURE, MER",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1549468057-5b7fa1a41d7a",
+    "steps": [
+      { "time": "09:00", "title": "Luminy", "description": "Départ de la randonnée", "lat": 43.2305, "lon": 5.4385, "iconType": "NATURE" },
+      { "time": "12:00", "title": "Calanque de Sugiton", "description": "Baignade et pique-nique", "lat": 43.2132, "lon": 5.4526, "iconType": "NATURE" },
+      { "time": "15:00", "title": "Belvédère de Sugiton", "description": "Point de vue panoramique", "lat": 43.2185, "lon": 5.4490, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "fr_04",
+    "name": "Nice : Promenade des Anglais",
+    "country": "France",
+    "type": "NATURE",
+    "totalCost": 180,
+    "totalDuration": 180,
+    "totalDistance": 6,
+    "tags": "Nice, MER, DETENTE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1533619239233-62815d2a912d",
+    "steps": [
+      { "time": "10:00", "title": "Marché Cours Saleya", "description": "Fleurs et spécialités", "lat": 43.6953, "lon": 7.2755, "iconType": "SHOPPING" },
+      { "time": "13:00", "title": "Colline du Château", "description": "Cascade et vue", "lat": 43.6945, "lon": 7.2795, "iconType": "NATURE" },
+      { "time": "16:00", "title": "Le Negresco", "description": "Palais mythique", "lat": 43.6948, "lon": 7.2580, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "fr_05",
+    "name": "Bordeaux : Cité du Vin",
+    "country": "France",
+    "type": "GASTRO",
+    "totalCost": 130,
+    "totalDuration": 210,
+    "totalDistance": 4,
+    "tags": "Bordeaux, GASTRO, CULTURE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1543968996-ee822b8176ba",
+    "steps": [
+      { "time": "10:00", "title": "Place de la Bourse", "description": "Miroir d'eau", "lat": 44.8415, "lon": -0.5700, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Marché des Capucins", "description": "Dégustation d'huîtres", "lat": 44.8315, "lon": -0.5695, "iconType": "GASTRO" },
+      { "time": "15:00", "title": "La Cité du Vin", "description": "Expérience immersive", "lat": 44.8623, "lon": -0.5501, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "jp_01",
+    "name": "Tokyo : Futurologie à Akihabara",
+    "country": "Japon",
+    "type": "SHOPPING",
+    "totalCost": 200,
+    "totalDuration": 240,
+    "totalDistance": 4,
+    "tags": "Tokyo, TECH, SHOPPING",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1503899036084-c55cdd92da26",
+    "steps": [
+      { "time": "10:00", "title": "Yodobashi Camera", "description": "Méga magasin tech", "lat": 35.6987, "lon": 139.7747, "iconType": "SHOPPING" },
+      { "time": "12:30", "title": "Maid Café Experience", "description": "Culture Otaku", "lat": 35.7000, "lon": 139.7720, "iconType": "GASTRO" },
+      { "time": "14:30", "title": "Kanda Myojin Shrine", "description": "Temple protecteur de la tech", "lat": 35.7020, "lon": 139.7680, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "jp_02",
+    "name": "Kyoto : Forêt de Bambous",
+    "country": "Japon",
+    "type": "NATURE",
+    "totalCost": 110,
+    "totalDuration": 300,
+    "totalDistance": 8,
+    "tags": "Kyoto, ZEN, NATURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1473946377622-f0c1778abc5a",
+    "steps": [
+      { "time": "09:00", "title": "Arashiyama Bamboo Grove", "description": "Marche méditative", "lat": 35.0158, "lon": 135.6706, "iconType": "NATURE" },
+      { "time": "11:30", "title": "Temple Tenryu-ji", "description": "Jardin zen", "lat": 35.0157, "lon": 135.6740, "iconType": "CULTURE" },
+      { "time": "13:30", "title": "Pont Togetsukyo", "description": "Vue sur la rivière", "lat": 35.0129, "lon": 135.6776, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "jp_03",
+    "name": "Osaka : Dotonbori Street",
+    "country": "Japon",
+    "type": "GASTRO",
+    "totalCost": 85,
+    "totalDuration": 180,
+    "totalDistance": 3,
+    "tags": "Osaka, FOOD, NIGHT",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9",
+    "steps": [
+      { "time": "18:00", "title": "Panneau Glico", "description": "Symbole d'Osaka", "lat": 34.6691, "lon": 135.5013, "iconType": "CULTURE" },
+      { "time": "19:30", "title": "Stand Takoyaki", "description": "Street food locale", "lat": 34.6687, "lon": 135.5030, "iconType": "GASTRO" },
+      { "time": "20:30", "title": "Hozenji Yokocho", "description": "Ruelle historique", "lat": 34.6683, "lon": 135.5020, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "jp_04",
+    "name": "Nara : Parc aux Cerfs",
+    "country": "Japon",
+    "type": "NATURE",
+    "totalCost": 70,
+    "totalDuration": 240,
+    "totalDistance": 6,
+    "tags": "Nara, ANIMAUX, TEMPLES",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1528164344705-4754268799af",
+    "steps": [
+      { "time": "10:00", "title": "Nara Park", "description": "Rencontre avec les cerfs", "lat": 34.6851, "lon": 135.8398, "iconType": "NATURE" },
+      { "time": "12:00", "title": "Temple Todai-ji", "description": "Le Grand Bouddha", "lat": 34.6889, "lon": 135.8400, "iconType": "CULTURE" },
+      { "time": "14:00", "title": "Sanctuaire Kasuga-taisha", "description": "Lanternes magiques", "lat": 34.6814, "lon": 135.8483, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "jp_05",
+    "name": "Mt Fuji : Lac Kawaguchi",
+    "country": "Japon",
+    "type": "NATURE",
+    "totalCost": 190,
+    "totalDuration": 420,
+    "totalDistance": 20,
+    "tags": "Fuji, NATURE, PHOTO",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+    "steps": [
+      { "time": "08:00", "title": "Gare de Kawaguchiko", "description": "Arrivée au pied du mont", "lat": 35.4981, "lon": 138.7686, "iconType": "NATURE" },
+      { "time": "11:00", "title": "Pagode Chureito", "description": "Vue iconique du Fuji", "lat": 35.4967, "lon": 138.8016, "iconType": "CULTURE" },
+      { "time": "14:00", "title": "Parc Oishi", "description": "Bord du lac fleuri", "lat": 35.5229, "lon": 138.7490, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "ma_01",
+    "name": "Marrakech : Magie des Souks",
+    "country": "Maroc",
+    "type": "SHOPPING",
+    "totalCost": 90,
+    "totalDuration": 240,
+    "totalDistance": 5,
+    "tags": "Marrakech, CULTURE, SHOPPING",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bbaa",
+    "steps": [
+      { "time": "10:00", "title": "Place Jemaa el-Fna", "description": "Cœur battant de la ville", "lat": 31.6258, "lon": -7.9891, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Souk Semmarine", "description": "Artisanat et épices", "lat": 31.6280, "lon": -7.9880, "iconType": "SHOPPING" },
+      { "time": "14:00", "title": "Palais de la Bahia", "description": "Chef-d'œuvre andalou", "lat": 31.6218, "lon": -7.9817, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "ma_02",
+    "name": "Chefchaouen : Ville Bleue",
+    "country": "Maroc",
+    "type": "CULTURE",
+    "totalCost": 60,
+    "totalDuration": 180,
+    "totalDistance": 4,
+    "tags": "Chefchaouen, PHOTO, CULTURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bbaa",
+    "steps": [
+      { "time": "10:00", "title": "Place Uta el-Hammam", "description": "Cœur de la médina", "lat": 35.1687, "lon": -5.2632, "iconType": "CULTURE" },
+      { "time": "13:00", "title": "Ruelles Bleues", "description": "Exploration visuelle", "lat": 35.1695, "lon": -5.2615, "iconType": "CULTURE" },
+      { "time": "15:00", "title": "Mosquée Espagnole", "description": "Vue sur la ville", "lat": 35.1654, "lon": -5.2571, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "ma_03",
+    "name": "Essaouira : Port et Remparts",
+    "country": "Maroc",
+    "type": "NATURE",
+    "totalCost": 75,
+    "totalDuration": 240,
+    "totalDistance": 5,
+    "tags": "Essaouira, MER, GASTRO",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1533033525039-44428017684d",
+    "steps": [
+      { "time": "10:00", "title": "Port d'Essaouira", "description": "Barques bleues", "lat": 31.5085, "lon": -9.7745, "iconType": "NATURE" },
+      { "time": "12:30", "title": "Dégustation Poissons", "description": "Grillades fraîches", "lat": 31.5095, "lon": -9.7710, "iconType": "GASTRO" },
+      { "time": "15:00", "title": "La Skala", "description": "Canons et remparts", "lat": 31.5126, "lon": -9.7705, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "ma_04",
+    "name": "Fès : Tueries du Cuir",
+    "country": "Maroc",
+    "type": "CULTURE",
+    "totalCost": 50,
+    "totalDuration": 300,
+    "totalDistance": 7,
+    "tags": "Fes, ARTISANAT, HISTOIRE",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1523301551780-cd17359a95d0",
+    "steps": [
+      { "time": "09:00", "title": "Bab Boujloud", "description": "Porte bleue", "lat": 34.0617, "lon": -4.9818, "iconType": "CULTURE" },
+      { "time": "11:30", "title": "Tannerie Chouara", "description": "Savoir-faire ancestral", "lat": 34.0664, "lon": -4.9712, "iconType": "CULTURE" },
+      { "time": "14:00", "title": "Madrasa Bou Inania", "description": "Architecture mérinide", "lat": 34.0625, "lon": -4.9812, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "ma_05",
+    "name": "Désert de Merzouga",
+    "country": "Maroc",
+    "type": "NATURE",
+    "totalCost": 220,
+    "totalDuration": 600,
+    "totalDistance": 100,
+    "tags": "Merzouga, DESERT, AVENTURE",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1505322022379-7c3353ee6291",
+    "steps": [
+      { "time": "16:00", "title": "Erg Chebbi", "description": "Départ à dos de dromadaire", "lat": 31.1278, "lon": -3.9806, "iconType": "NATURE" },
+      { "time": "19:00", "title": "Bivouac Nomade", "description": "Coucher de soleil", "lat": 31.1100, "lon": -3.9700, "iconType": "NATURE" },
+      { "time": "21:00", "title": "Dîner Berbère", "description": "Soirée sous les étoiles", "lat": 31.1050, "lon": -3.9650, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "vn_01",
+    "name": "Hanoi : Street Food Tour",
+    "country": "Vietnam",
+    "type": "GASTRO",
+    "totalCost": 45,
+    "totalDuration": 180,
+    "totalDistance": 4,
+    "tags": "Hanoi, FOOD, CULTURE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1",
+    "steps": [
+      { "time": "17:00", "title": "Lac Hoan Kiem", "description": "Légende de la tortue", "lat": 21.0285, "lon": 105.8521, "iconType": "CULTURE" },
+      { "time": "18:30", "title": "Vieux Quartier", "description": "Dégustation Pho et Bun Cha", "lat": 21.0345, "lon": 105.8505, "iconType": "GASTRO" },
+      { "time": "20:00", "title": "Beer Street", "description": "Ambiance nocturne", "lat": 21.0355, "lon": 105.8520, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "vn_02",
+    "name": "Baie d'Halong : Croisière",
+    "country": "Vietnam",
+    "type": "NATURE",
+    "totalCost": 280,
+    "totalDuration": 720,
+    "totalDistance": 50,
+    "tags": "Halong, NATURE, MER",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592",
+    "steps": [
+      { "time": "09:00", "title": "Port de Tuan Chau", "description": "Embarquement", "lat": 20.9380, "lon": 107.0090, "iconType": "NATURE" },
+      { "time": "12:00", "title": "Grottes Surprise", "description": "Formations calcaires", "lat": 20.8491, "lon": 107.0898, "iconType": "NATURE" },
+      { "time": "15:00", "title": "Kayaking à Luon Cave", "description": "Exploration lagunaire", "lat": 20.8520, "lon": 107.0850, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "vn_03",
+    "name": "Hoi An : Lanternes de Nuit",
+    "country": "Vietnam",
+    "type": "CULTURE",
+    "totalCost": 65,
+    "totalDuration": 150,
+    "totalDistance": 3,
+    "tags": "HoiAn, SHOPPING, CULTURE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1542366826-6f7f2b96377e",
+    "steps": [
+      { "time": "18:00", "title": "Pont Japonais", "description": "Symbole de la ville", "lat": 15.8771, "lon": 108.3259, "iconType": "CULTURE" },
+      { "time": "19:30", "title": "Rivière Thu Bon", "description": "Lâcher de lanternes", "lat": 15.8765, "lon": 108.3280, "iconType": "NATURE" },
+      { "time": "21:00", "title": "Marché de Nuit", "description": "Souvenirs artisanaux", "lat": 15.8760, "lon": 108.3275, "iconType": "SHOPPING" }
+    ]
+  },
+  {
+    "id": "vn_04",
+    "name": "Sapa : Rizières en Terrasse",
+    "country": "Vietnam",
+    "type": "NATURE",
+    "totalCost": 120,
+    "totalDuration": 480,
+    "totalDistance": 15,
+    "tags": "Sapa, NATURE, ETHNIE",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1502476595501-fe694833215c",
+    "steps": [
+      { "time": "08:00", "title": "Village Cat Cat", "description": "Culture H'mong", "lat": 22.3275, "lon": 103.8345, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Vallée Muong Hoa", "description": "Trek dans les rizières", "lat": 22.3120, "lon": 103.8550, "iconType": "NATURE" },
+      { "time": "16:00", "title": "Village Ta Van", "description": "Arrivée chez l'habitant", "lat": 22.3025, "lon": 103.8710, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "vn_05",
+    "name": "Saigon : Histoire de Guerre",
+    "country": "Vietnam",
+    "type": "CULTURE",
+    "totalCost": 55,
+    "totalDuration": 360,
+    "totalDistance": 60,
+    "tags": "Saigon, HISTOIRE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592",
+    "steps": [
+      { "time": "09:00", "title": "Tunnels de Cu Chi", "description": "Vestiges de la résistance", "lat": 11.1415, "lon": 106.4625, "iconType": "CULTURE" },
+      { "time": "14:00", "title": "Musée des Vestiges", "description": "Histoire contemporaine", "lat": 10.7795, "lon": 106.6922, "iconType": "CULTURE" },
+      { "time": "16:00", "title": "Poste Centrale", "description": "Architecture française", "lat": 10.7798, "lon": 106.6999, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "mx_01",
+    "name": "Mexico City : Tacos Tour",
+    "country": "Mexique",
+    "type": "GASTRO",
+    "totalCost": 50,
+    "totalDuration": 150,
+    "totalDistance": 5,
+    "tags": "CDMX, FOOD, GASTRO",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38",
+    "steps": [
+      { "time": "18:00", "title": "Taquería Los Cocuyos", "description": "Tacos al pastor authentiques", "lat": 19.4315, "lon": -99.1350, "iconType": "GASTRO" },
+      { "time": "19:30", "title": "Zócalo", "description": "Balade sur la place centrale", "lat": 19.4326, "lon": -99.1332, "iconType": "CULTURE" },
+      { "time": "21:00", "title": "Churrería El Moro", "description": "Chocolat et churros", "lat": 19.4305, "lon": -99.1380, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "mx_02",
+    "name": "Cancun : Isla Mujeres VIP",
+    "country": "Mexique",
+    "type": "NATURE",
+    "totalCost": 250,
+    "totalDuration": 480,
+    "totalDistance": 15,
+    "tags": "Cancun, MER, LUXE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1510097467424-192d713fd8b2",
+    "steps": [
+      { "time": "10:00", "title": "Marina Cancun", "description": "Départ en catamaran privé", "lat": 21.1345, "lon": -86.8045, "iconType": "NATURE" },
+      { "time": "12:00", "title": "Playa Norte", "description": "Plage de rêve", "lat": 21.2585, "lon": -86.7485, "iconType": "NATURE" },
+      { "time": "15:00", "title": "Punta Sur", "description": "Falaises et temples", "lat": 21.2015, "lon": -86.7150, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "mx_03",
+    "name": "Chichén Itzá : Merveille Maya",
+    "country": "Mexique",
+    "type": "CULTURE",
+    "totalCost": 110,
+    "totalDuration": 360,
+    "totalDistance": 10,
+    "tags": "Maya, HISTOIRE, CULTURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+    "steps": [
+      { "time": "09:00", "title": "El Castillo", "description": "Pyramide de Kukulcán", "lat": 20.6843, "lon": -88.5678, "iconType": "CULTURE" },
+      { "time": "11:30", "title": "Grand Terrain de Jeu", "description": "Jeux de balle rituels", "lat": 20.6850, "lon": -88.5695, "iconType": "CULTURE" },
+      { "time": "13:30", "title": "Cenote Sagrado", "description": "Puits naturel sacré", "lat": 20.6880, "lon": -88.5685, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "mx_04",
+    "name": "Tulum : Ruines et Mer",
+    "country": "Mexique",
+    "type": "NATURE",
+    "totalCost": 140,
+    "totalDuration": 300,
+    "totalDistance": 5,
+    "tags": "Tulum, NATURE, HISTOIRE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1504730655501-24c39ac53f0e",
+    "steps": [
+      { "time": "08:30", "title": "Zone Archéologique", "description": "Ruines face aux Caraïbes", "lat": 20.2151, "lon": -87.4297, "iconType": "CULTURE" },
+      { "time": "11:00", "title": "Plage de Tulum", "description": "Baignade turquoise", "lat": 20.2100, "lon": -87.4320, "iconType": "NATURE" },
+      { "time": "13:00", "title": "Gran Cenote", "description": "Plongée souterraine", "lat": 20.2265, "lon": -87.4815, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "mx_05",
+    "name": "Oaxaca : Couleurs et Mezcal",
+    "country": "Mexique",
+    "type": "GASTRO",
+    "totalCost": 90,
+    "totalDuration": 240,
+    "totalDistance": 40,
+    "tags": "Oaxaca, CULTURE, GASTRO",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23",
+    "steps": [
+      { "time": "10:00", "title": "Monte Albán", "description": "Cité zapotèque", "lat": 17.0438, "lon": -96.7679, "iconType": "CULTURE" },
+      { "time": "14:00", "title": "Marché 20 de Noviembre", "description": "Déjeuner mole et grillades", "lat": 17.0590, "lon": -96.7265, "iconType": "GASTRO" },
+      { "time": "16:30", "title": "Dégustation Mezcal", "description": "Savoir-faire artisanal", "lat": 17.0605, "lon": -96.7225, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "ua_01",
+    "name": "Kyiv : Cathédrales d'Or",
+    "country": "Ukraine",
+    "type": "CULTURE",
+    "totalCost": 40,
+    "totalDuration": 240,
+    "totalDistance": 6,
+    "tags": "Kyiv, CULTURE, HISTOIRE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1549468057-5b7fa1a41d7a",
+    "steps": [
+      { "time": "10:00", "title": "Sainte-Sophie de Kyiv", "description": "Joyau du XIe siècle", "lat": 50.4528, "lon": 30.5144, "iconType": "CULTURE" },
+      { "time": "12:30", "title": "Descente Saint-André", "description": "Montmartre ukrainien", "lat": 50.4585, "lon": 30.5165, "iconType": "SHOPPING" },
+      { "time": "14:30", "title": "Monastère de la Laure", "description": "Grottes et spiritualité", "lat": 50.4350, "lon": 30.5574, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "ua_02",
+    "name": "Lviv : Café et Chocolat",
+    "country": "Ukraine",
+    "type": "GASTRO",
+    "totalCost": 35,
+    "totalDuration": 180,
+    "totalDistance": 3,
+    "tags": "Lviv, GASTRO, CULTURE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9",
+    "steps": [
+      { "time": "10:00", "title": "Place Rynok", "description": "Architecture Renaissance", "lat": 49.8417, "lon": 24.0315, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Lviv Coffee Mine", "description": "Expérience café unique", "lat": 49.8415, "lon": 24.0330, "iconType": "GASTRO" },
+      { "time": "14:00", "title": "Manufacture de Chocolat", "description": "Dégustation artisanale", "lat": 49.8420, "lon": 24.0320, "iconType": "GASTRO" }
+    ]
+  },
+  {
+    "id": "ua_03",
+    "name": "Carpates : Trekking Vert",
+    "country": "Ukraine",
+    "type": "NATURE",
+    "totalCost": 70,
+    "totalDuration": 480,
+    "totalDistance": 18,
+    "tags": "Carpates, NATURE, SPORT",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1502476595501-fe694833215c",
+    "steps": [
+      { "time": "08:00", "title": "Base de Sport Zaroslyak", "description": "Départ pour le Hoverla", "lat": 48.1636, "lon": 24.5330, "iconType": "NATURE" },
+      { "time": "12:00", "title": "Sommet du Mont Hoverla", "description": "Point culminant de l'Ukraine", "lat": 48.1601, "lon": 24.5002, "iconType": "NATURE" },
+      { "time": "15:00", "title": "Lac Nesamovyte", "description": "Lac glaciaire mystique", "lat": 48.1226, "lon": 24.5393, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "ua_04",
+    "name": "Odesa : Perle de la Mer",
+    "country": "Ukraine",
+    "type": "CULTURE",
+    "totalCost": 55,
+    "totalDuration": 210,
+    "totalDistance": 4,
+    "tags": "Odesa, MER, CULTURE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1549468057-5b7fa1a41d7a",
+    "steps": [
+      { "time": "10:00", "title": "Opéra d'Odesa", "description": "Splendeur baroque", "lat": 46.4854, "lon": 30.7412, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Escalier Potemkine", "description": "Symbole cinématographique", "lat": 46.4883, "lon": 30.7414, "iconType": "CULTURE" },
+      { "time": "14:00", "title": "Plage de Lanzheron", "description": "Détente au bord de l'eau", "lat": 46.4754, "lon": 30.7604, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "ua_05",
+    "name": "Chernivtsi : Université",
+    "country": "Ukraine",
+    "type": "CULTURE",
+    "totalCost": 30,
+    "totalDuration": 150,
+    "totalDistance": 3,
+    "tags": "Chernivtsi, CULTURE",
+    "difficultyLabel": "Facile",
+    "difficultyLevel": 1,
+    "imageUrl": "https://images.unsplash.com/photo-1549468057-5b7fa1a41d7a",
+    "steps": [
+      { "time": "10:00", "title": "Université de Chernivtsi", "description": "Ancienne résidence classée UNESCO", "lat": 48.2971, "lon": 25.9242, "iconType": "CULTURE" },
+      { "time": "12:30", "title": "Rue Kobylyanska", "description": "Artère piétonne élégante", "lat": 48.2915, "lon": 25.9340, "iconType": "SHOPPING" },
+      { "time": "14:00", "title": "Place de l'Hôtel de Ville", "description": "Cœur administratif", "lat": 48.2917, "lon": 25.9352, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "it_01",
+    "name": "Rome : Sur les pas de César",
+    "country": "Italie",
+    "type": "CULTURE",
+    "totalCost": 120,
+    "totalDuration": 360,
+    "totalDistance": 8,
+    "tags": "Rome, HISTOIRE, CULTURE",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1552832230-c0197dd311b5",
+    "steps": [
+      { "time": "09:00", "title": "Le Colisée", "description": "Amphithéâtre mythique", "lat": 41.8902, "lon": 12.4922, "iconType": "CULTURE" },
+      { "time": "11:30", "title": "Forum Romain", "description": "Ruines du centre antique", "lat": 41.8925, "lon": 12.4853, "iconType": "CULTURE" },
+      { "time": "14:30", "title": "Panthéon", "description": "Chef-d’œuvre architectural", "lat": 41.8986, "lon": 12.4769, "iconType": "CULTURE" }
+    ]
+  },
+  {
+    "id": "it_02",
+    "name": "Florence : Art et Gastronomie",
+    "country": "Italie",
+    "type": "GASTRO",
+    "totalCost": 160,
+    "totalDuration": 300,
+    "totalDistance": 5,
+    "tags": "Florence, RENAISSANCE, FOOD",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1541088960295-9382d8e9079c",
+    "steps": [
+      { "time": "10:00", "title": "Galleria degli Uffizi", "description": "Musée de classe mondiale", "lat": 43.7677, "lon": 11.2553, "iconType": "CULTURE" },
+      { "time": "13:00", "title": "All'Antico Vinaio", "description": "Meilleur sandwich de Florence", "lat": 43.7685, "lon": 11.2560, "iconType": "GASTRO" },
+      { "time": "15:30", "title": "Ponte Vecchio", "description": "Pont des bijoutiers", "lat": 43.7679, "lon": 11.2532, "iconType": "SHOPPING" }
+    ]
+  },
+  {
+    "id": "it_03",
+    "name": "Venise : Canaux Secrets",
+    "country": "Italie",
+    "type": "CULTURE",
+    "totalCost": 220,
+    "totalDuration": 240,
+    "totalDistance": 10,
+    "tags": "Venise, ROMANCE, MER",
+    "difficultyLabel": "Moyen",
+    "difficultyLevel": 2,
+    "imageUrl": "https://images.unsplash.com/photo-1514890547357-a9ee288728e0",
+    "steps": [
+      { "time": "10:00", "title": "Place Saint-Marc", "description": "Basilique et Palais", "lat": 45.4344, "lon": 12.3385, "iconType": "CULTURE" },
+      { "time": "13:00", "title": "Osteria da Carla", "description": "Cuisine vénitienne", "lat": 45.4350, "lon": 12.3360, "iconType": "GASTRO" },
+      { "time": "15:00", "title": "Grand Canal en Vaporetto", "description": "Traversée de la cité", "lat": 45.4360, "lon": 12.3320, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "it_04",
+    "name": "Cinque Terre : Randonnée Azur",
+    "country": "Italie",
+    "type": "NATURE",
+    "totalCost": 95,
+    "totalDuration": 420,
+    "totalDistance": 10,
+    "tags": "Liguerie, NATURE, PHOTO",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1499002238440-d264edd596ec",
+    "steps": [
+      { "time": "09:00", "title": "Monterosso al Mare", "description": "Départ sur la plage", "lat": 44.1451, "lon": 9.6548, "iconType": "NATURE" },
+      { "time": "12:00", "title": "Vernazza", "description": "Port de pêche coloré", "lat": 44.1350, "lon": 9.6835, "iconType": "CULTURE" },
+      { "time": "15:30", "title": "Corniglia", "description": "Village perché au sommet", "lat": 44.1195, "lon": 9.7088, "iconType": "NATURE" }
+    ]
+  },
+  {
+    "id": "it_05",
+    "name": "Pompéi : Temps Suspendu",
+    "country": "Italie",
+    "type": "CULTURE",
+    "totalCost": 80,
+    "totalDuration": 360,
+    "totalDistance": 12,
+    "tags": "Naples, HISTOIRE",
+    "difficultyLabel": "Difficile",
+    "difficultyLevel": 3,
+    "imageUrl": "https://images.unsplash.com/photo-1549468057-5b7fa1a41d7a",
+    "steps": [
+      { "time": "09:00", "title": "Porta Marina", "description": "Entrée principale du site", "lat": 40.7485, "lon": 14.4842, "iconType": "CULTURE" },
+      { "time": "12:00", "title": "Lupanar", "description": "Fous de l'antiquité", "lat": 40.7505, "lon": 14.4875, "iconType": "CULTURE" },
+      { "time": "14:30", "title": "Amphithéâtre de Pompéi", "description": "Le plus ancien subsistant", "lat": 40.7517, "lon": 14.4947, "iconType": "CULTURE" }
+    ]
+  }
+]
